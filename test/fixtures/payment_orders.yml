@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  out_trade_no: MyString
+  total_fee: 1
+  payment_method_id: 
+  payment_channel_id: 
+
+two:
+  out_trade_no: MyString
+  total_fee: 1
+  payment_method_id: 
+  payment_channel_id: 

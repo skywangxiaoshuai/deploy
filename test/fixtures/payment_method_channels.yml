@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  rate: 1.5
+  payment_method_id: 
+  payment_channel_id: 
+
+two:
+  rate: 1.5
+  payment_method_id: 
+  payment_channel_id: 
